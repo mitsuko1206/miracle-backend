@@ -14,7 +14,7 @@ return [
         // 'baseUrl' => env('SCRIPT_NAME'),
         'subDomain' => 'miracle',
         'fullBaseUrl' => false,
-        'socketBaseUrl' => 'http://18.183.150.95:3003/chat-miracle',
+        'socketBaseUrl' => 'http://54.168.213.169:3003/chat-miracle',
         'imageBaseUrl' => 'img/',
         'cssBaseUrl' => 'css/',
         'jsBaseUrl' => 'js/',
